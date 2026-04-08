@@ -1,16 +1,26 @@
-## Hi there 👋
+## 👋 Hi, I'm a Product Data Analyst in progress
 
-<!--
-**gyurkova-byte/gyurkova-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 I work with data to find insights, test hypotheses, and support product decisions.
 
-Here are some ideas to get you started:
+### 🔍 My experience:
+- Python for data analysis (Pandas, NumPy, Plotly)
+- Machine Learning for A/B testing
+- Missing data analysis & ML-based imputation
+- SQL (data extraction & analysis)
+- MongoDB (data logging)
+- Data visualization (Power BI, Tableau, Python)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Focus:
+- Product Analytics
+- A/B Testing
+- Forecasting
+- Machine Learning in Analytics
+
+### 🚀 Projects:
+- A/B Testing with ML
+- Missing Data Imputation using ML
+- Product Analytics with Python
+- Tableau visualisation: https://public.tableau.com/app/profile/halyna.yurkova/vizzes
+
+### 📫 Contact:
+- Instagram: https://www.instagram.com/galinayurkova_?igsh=NndkMXRnb3M0dnho&utm_source=qr
